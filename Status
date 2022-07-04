@@ -1,0 +1,17 @@
+Decide what functionalities will be needed in this app:
+
+Tier 1:
+[] As a user, I want to be able to -
+[] Sign-up and login
+[] Create new to-dos and configure its priority and deadline
+[] See all the list of my to-dos that are organized base on priority and deadline
+[] Edit the to-dos
+[] Mark to-dos as complete
+[] See to-dos history
+[] Delete to-dos
+
+Tier 2:
+As a user, I want to be able to -
+
+[] See to-dos in color code
+[] Receive an email notice if the to-do's deadline is coming up
